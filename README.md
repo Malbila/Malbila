@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Malbila
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning to create react native app
+- 🌱 I’m currently learning to create react react apps
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me 
 
